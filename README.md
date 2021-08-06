@@ -1,4 +1,4 @@
-# aprendizaje_supervisado
+# Aprendizaje Supervisado
 
 Repositorio de la materia "Aprendizaje supervisado" de la Diplomatura en Ciencia de Datos y aprendizaje Supervisado.
 
